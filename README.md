@@ -49,7 +49,6 @@
 <a href="https://github.com/kazvee/kazvee/"><img src="https://img.shields.io/badge/replit-CCCCCC?style=for-the-badge&logo=replit" alt="Replit" /></a>
 <a href="https://github.com/kazvee/kazvee/"><img src="https://img.shields.io/badge/codepen-CCCCCC?style=for-the-badge&logo=codepen&logoColor=goldenrod" alt="CodePen" /></a> 
 <a href="https://github.com/kazvee/kazvee/"><img src="https://img.shields.io/badge/mantine-CCCCCC?style=for-the-badge&logo=mantine" alt="Mantine" /></a> 
-
 </span>
 <h3 align="center">🏫 I've Had Exposure To:</h3>
 <span style="display: inline-block; line-height: 0; margin-right: 2px; margin-bottom: 2px; padding-right: 2px; padding-bottom: 2px;">
@@ -75,8 +74,36 @@
 <a href="https://github.com/kazvee/kazvee/"><img src="https://img.shields.io/badge/vim-CCCCCC?style=for-the-badge&logo=vim&logoColor=forestgreen" alt="Vim" /></a> 
 </span>
 <br><br>
+<h3 align="center">📊 At a Glance:</h3>
+<div align="center">
+  <a href="https://github.com/kazvee/kazvee/">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kazvee&langs_count=10&show_icons=true&bg_color=CCCCCC&title_color=ff00ff&locale=en&layout=compact" alt="My Most Used Languages" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/kazvee/kazvee/">
+  <img src="https://github-readme-stats.vercel.app/api?username=kazvee&custom_title=My%20GitHub%20Stats&show_icons=true&hide_rank=true&bg_color=CCCCCC&title_color=ff00ff&icon_color=800080&hide=stars&locale=en" alt="My GitHub Stats" />
+  </a>
+</div>
 <div align="center">
   <h2>🌞 My Projects:</h2>
+  <!-- Portfolio -->
+  <h3>Web Developer Portfolio 👩‍💻</h3>
+  <p>
+    <a href="https://github.com/kazvee/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
+    </a>  
+  </p>
+  <div align="left">
+    💻 Web Dev Portfolio<br>
+    ✨ <a href="https://kazvee.com/" target="_blank">Live Demo</a><br>
+    ⚙️ <strong>Tools Used:</strong> TypeScript, NextJS 14, Tailwind CSS<br>
+    📅 Built in: January 2024<br><br>
+  </div>
+  
+  ![Portfolio_Main_View](https://github.com/kazvee/kazvee/assets/109990289/1c5338c2-efa9-4d18-8145-c3aea76013c4)
+  
+  <hr>
   <!-- PawTrackr -->
   <h3>PawTrackr 🐾</h3>
   <p>
@@ -331,9 +358,9 @@
     ⚙️ <strong>Tools Used:</strong> React<br>
     📅 Built in: September 2023<br><br>
   </div>
-
+  
   https://github.com/kazvee/hello-react/assets/109990289/4abe0e96-5625-4495-a2c4-a1bff15def0f
-
+  
   <hr>
   <!-- Tourney Matches -->
   <h3>Tourney Matches 🕹️</h3>
@@ -404,15 +431,4 @@
   <!-- Video/Photo here -->
   <!-- <hr> -->
   <!-- End Projects -->
-</div>
-<h3 align="center">📊 At a Glance:</h3>
-<div align="center">
-  <a href="https://github.com/kazvee/kazvee/">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kazvee&show_icons=true&bg_color=CCCCCC&title_color=ff00ff&locale=en&layout=compact" alt="My Most Used Languages" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/kazvee/kazvee/">
-  <img src="https://github-readme-stats.vercel.app/api?username=kazvee&custom_title=My%20GitHub%20Stats&show_icons=true&hide_rank=true&bg_color=CCCCCC&title_color=ff00ff&icon_color=800080&hide=stars&locale=en" alt="My GitHub Stats" />
-  </a>
 </div>
