@@ -74,23 +74,15 @@
 <a href="https://github.com/kazvee/kazvee/"><img src="https://img.shields.io/badge/vim-CCCCCC?style=for-the-badge&logo=vim&logoColor=forestgreen" alt="Vim" /></a> 
 </span>
 <br><br>
+
 <h3 align="center">📊 At a Glance:</h3>
 <div align="center">
-  <a href="https://github.com/kazvee/kazvee/">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kazvee&langs_count=10&show_icons=true&bg_color=CCCCCC&title_color=ff00ff&locale=en&layout=compact" alt="My Most Used Languages" />
-  </a>
+<img src="https://raw.githubusercontent.com/kazvee/my-github-stats/main/images/kazvee-github-stats.svg?${{ github.run_id }}" alt="GitHub Activity for kazvee">
 </div>
-<div align="center">
-  <a href="https://github.com/kazvee/kazvee/">
-  <img src="https://github-readme-stats.vercel.app/api?username=kazvee&custom_title=My%20GitHub%20Stats&show_icons=true&hide_rank=true&bg_color=CCCCCC&title_color=ff00ff&icon_color=800080&hide=stars&locale=en" alt="My GitHub Stats" />
-  </a>
-</div>
-<div align="center">
-
 <hr>
 
   <!-- Portfolio -->
-  <h3>✨ Visit my <a href="https://kazvee.com/" target="_blank">Portfolio</a> ✨</h3>
+  <h3 align="center">✨ Visit my <a href="https://kazvee.com/" target="_blank">Portfolio</a> ✨</h3>
   
    <div align="left">
      ⚙️ <strong>Tools Used:</strong> TypeScript, NextJS 14, Tailwind CSS<br>
@@ -106,7 +98,10 @@
 
   <hr>
 
+  <div align="center">
+
   <details>
+    
   <summary>Click to expand and explore more of my projects! 🌞</summary>
 
   <!-- PawTrackr -->
