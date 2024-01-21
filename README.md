@@ -12,7 +12,7 @@
 <span style="display: inline-block; line-height: 0; margin-right: 2px; margin-bottom: 2px; padding-right: 2px; padding-bottom: 2px;">
 <a href="https://github.com/kazvee/kazvee/"><img src="https://img.shields.io/badge/javascript-CCCCCC?style=for-the-badge&logo=javascript&logoColor=goldenrod" alt="JavaScript"></a>
 <a href="https://github.com/kazvee/kazvee/"><img src="https://img.shields.io/badge/react-CCCCCC?style=for-the-badge&logo=react" alt="React" /></a>
-<a href="https://github.com/kazvee/kazvee/"><img src="https://img.shields.io/badge/next-CCCCCC?style=for-the-badge&logo=next.js&logoColor=black" alt="NextJS" /></a> 
+<a href="https://github.com/kazvee/kazvee/"><img src="https://img.shields.io/badge/next.js-CCCCCC?style=for-the-badge&logo=next.js&logoColor=black" alt="NextJS" /></a> 
 <a href="https://github.com/kazvee/kazvee/"><img src="https://img.shields.io/badge/node.js-CCCCCC?style=for-the-badge&logo=nodedotjs" alt="Node.js" /></a> 
 <a href="https://github.com/kazvee/kazvee/"><img src="https://img.shields.io/badge/nodemon-CCCCCC?style=for-the-badge&logo=nodemon&logoColor=green" alt="Nodemon" /></a> 
 <a href="https://github.com/kazvee/kazvee/"><img src="https://img.shields.io/badge/axios-CCCCCC?style=for-the-badge&logo=axios&logoColor=purple" alt="Axios" /></a> 
@@ -86,31 +86,32 @@
   </a>
 </div>
 <div align="center">
-  <h2>🌞 My Projects:</h2>
+
+<hr>
+
   <!-- Portfolio -->
-  <h3>Web Developer Portfolio 👩‍💻</h3>
-  <p>
-    <a href="https://github.com/kazvee/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
-    </a>  
-  </p>
-  <div align="left">
-    💻 Web Dev Portfolio<br>
-    ✨ <a href="https://kazvee.com/" target="_blank">Live Demo</a><br>
-    ⚙️ <strong>Tools Used:</strong> TypeScript, NextJS 14, Tailwind CSS<br>
-    📅 Built in: January 2024<br><br>
-  </div>
+  <h3>✨ Visit my <a href="https://kazvee.com/" target="_blank">Portfolio</a> ✨</h3>
   
-  ![Portfolio_Main_View](https://github.com/kazvee/kazvee/assets/109990289/1c5338c2-efa9-4d18-8145-c3aea76013c4)
-  
+   <div align="left">
+     ⚙️ <strong>Tools Used:</strong> TypeScript, NextJS 14, Tailwind CSS<br>
+     📅 Built in: January 2024<br><br>
+     <p>
+       <a href="https://github.com/kazvee/portfolio/#readme" target="_blank">
+         <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
+       </a>
+    </p>
+    </div>
+
+  <a href="https://kazvee.com/" target="_blank">![Portfolio_Main_View](https://github.com/kazvee/kazvee/assets/109990289/1c5338c2-efa9-4d18-8145-c3aea76013c4)</a>
+
   <hr>
+
+  <details>
+  <summary>Click to expand and explore more of my projects! 🌞</summary>
+
   <!-- PawTrackr -->
   <h3>PawTrackr 🐾</h3>
-  <p>
-    <a href="https://github.com/kazvee/PawTrackr/" target="_blank">
-    <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
-    </a>  
-  </p>
+  
   <div align="left">
     🐾 Final Group Project - Full Stack Pet Care Management App<br>
     😺 Schedule feeding times<br>
@@ -120,6 +121,11 @@
     🤩 Features: Calendar, Drag & Drop, Pagination<br>
     ⚙️ <strong>Tools Used:</strong> React, NodeJS, Express, Axios, Bootstrap, PostgreSQL<br>
     📅 Built in: December 2023<br><br>
+    <p>
+      <a href="https://github.com/kazvee/PawTrackr/#readme" target="_blank">
+        <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
+        </a>
+    </p>
   </div>
   
   https://github.com/kazvee/kazvee/assets/109990289/3d1d365b-22b7-4c65-a628-3d838b7c08f1
@@ -127,11 +133,7 @@
   <hr>
   <!-- Jungle-->
   <h3>Jungle 🪴</h3>
-  <p>
-    <a href="https://github.com/kazvee/jungle_rails/" target="_blank">
-    <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
-    </a>  
-  </p>
+  
   <div align="left">
     🌿 Full-stack e-commerce app<br>
     🔴 Ruby on 🚃 Rails 6.1<br>
@@ -141,6 +143,11 @@
     💸 Stripe for secure payments<br>
     🧪 Rspec & Cypress automated testing<br>
     📅 Built in: November 2023<br><br>
+    <p>
+      <a href="https://github.com/kazvee/jungle_rails/#readme" target="_blank">
+        <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
+      </a>  
+    </p>
   </div>
   
   https://github.com/kazvee/jungle_rails/assets/109990289/fb683726-38d1-4fd8-8c28-53e3d05bbd8d
@@ -148,16 +155,17 @@
   <hr>
   <!-- Scheduler-->
   <h3>Scheduler 📅</h3>
-  <p>
-    <a href="https://github.com/kazvee/scheduler/" target="_blank">
-    <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
-    </a>  
-  </p>
+ 
   <div align="left">
     🧑‍🤝‍🧑 Full-stack appointment booking app enabling students & mentors to meet<br>
     🧪 Built using TDD (Test Driven Development) using Jest & Cypress<br>
     🔁 Implements CI/CD (Continuous Integration and Continuous Deployment/Delivery) practices with built-in automated testing capabilities<br>
     📅 Built in: October 2023<br><br>
+    <p>
+      <a href="https://github.com/kazvee/scheduler/#readme" target="_blank">
+        <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
+      </a>  
+    </p>
   </div>
   
   https://github.com/kazvee/scheduler/assets/109990289/3c60e71c-5562-438f-b21a-d22b7da7846c
@@ -165,16 +173,17 @@
   <hr>
   <!-- PhotoLabs -->
   <h3>PhotoLabs 🖼️</h3>
-  <p>
-    <a href="https://github.com/kazvee/photolabs/" target="_blank">
-    <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
-    </a>  
-  </p>
+ 
   <div align="left">
     🖼️ Stock photo single page app built as a Single Page Application (SPA) in React<br>
     🏢 Leverages a pre-existing to invite customers to view and interact with photos held in the database<br>
     ⚙️ <strong>Tools Used:</strong> React, Express, PostgreSQL, Babel, and Dotenv<br>
     📅 Built in: September 2023<br><br>
+    <p>
+      <a href="https://github.com/kazvee/photolabs/#readme" target="_blank">
+        <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
+      </a>
+    </p>
   </div>
   
   [PhotoLabs_Video.webm](https://github.com/kazvee/photolabs/assets/109990289/279dd80b-ea3c-4817-a98c-c1570d3cfe9a)
@@ -182,16 +191,17 @@
   <hr>
   <!-- TwO-O-Player Math Game -->
   <h3>TwO-O-Player Math Game 🧮</h3>
-  <p>
-    <a href="https://github.com/kazvee/two_player_game/" target="_blank">
-    <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
-    </a>  
-  </p>
+ 
   <div align="left">
     🧮 Two player math game which runs in the terminal<br>
     🔴 Built with Ruby using OOP (Object Oriented Programming) principles<br>
     📺 Includes a TV Infomercial style ReadMe, just for fun!<br>
     📅 Built in: October 2023<br><br>
+    <p>
+    <a href="https://github.com/kazvee/two_player_game/#readme" target="_blank">
+    <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
+    </a>  
+  </p>
   </div>
   
   https://github.com/kazvee/two_player_game/assets/109990289/01522a1e-fea4-4eb8-9f55-293b516e7025
@@ -199,17 +209,18 @@
   <hr>
   <!-- Tweeter -->
   <h3>Tweeter 🐣</h3>
-  <p>
-    <a href="https://github.com/kazvee/tweeter/" target="_blank">
-    <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
-    </a>  
-  </p>
+ 
   <div align="left">
     🐦 Single-page social media app which delivers a seamless user experience<br> 
     ✨ Features a responsive design for various device sizes<br>
     🧮 Real-time tweet length counter<br>
     🔄️ Content validation prevents empty posts<br>
     📅 Built in: July 2023<br><br>
+     <p>
+       <a href="https://github.com/kazvee/tweeter/#readme" target="_blank">
+         <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
+       </a>
+     </p>
   </div>
   
   https://user-images.githubusercontent.com/109990289/198e575d-ce26-4269-bf38-631e0c7a2a39
@@ -217,16 +228,17 @@
   <hr>
   <!-- Resource Wall -->
   <h3>Resource Wall 📚</h3>
-  <p>
-    <a href="https://github.com/kazvee/resource-wall/" target="_blank">
-    <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
-    </a>  
-  </p>
+ 
   <div align="left">
     🤝 Midterm Group Project - Resource sharing site<br>
     🖼️ Enables users to save & share internet links, blogs, or videos<br>
     ⚙️ <strong>Tools Used:</strong> JavaScript, NodeJS, Express, PostgreSQL, SASS, and EJS<br>
     📅 Built in: September 2023<br><br>
+    <p>
+      <a href="https://github.com/kazvee/resource-wall/#readme" target="_blank">
+        <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
+      </a>  
+    </p>
   </div>
   
   [!["View of Homepage with All Resources"](https://github.com/kazvee/kazvee/assets/109990289/9c1cfcb5-35e9-4791-951f-5e5e6edeabbe)](https://github.com/kazvee/resource-wall/)
@@ -234,16 +246,17 @@
   <hr>
   <!-- LightBnB -->
   <h3>LightBnB 🏡</h3>
-  <p>
-    <a href="https://github.com/kazvee/LightBnB/" target="_blank">
-    <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
-    </a>  
-  </p>
+ 
   <div align="left">
     🏨 Multi-page property booking app<br>
     🏘️ Enables a cross-platform experience for property owners and short-term holiday rental customers<br>
     ⚙️ <strong>Tools Used:</strong> JavaScript, NodeJS, Express, PostgreSQL, SASS, Bcrypt, Cookie-Session, Nodemon, and Dotenv<br>
     📅 Built in: August 2023<br><br>
+    <p>
+      <a href="https://github.com/kazvee/LightBnB/#readme" target="_blank">
+        <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
+      </a>
+    </p>
   </div>
   
   [!["Screenshot Logged-in User View"](https://github.com/kazvee/kazvee/assets/109990289/14eff8c7-a73c-46b8-a500-1a0c15d68014)](https://github.com/kazvee/LightBnB/)
@@ -251,16 +264,17 @@
   <hr>
   <!-- TinyApp -->
   <h3>TinyApp 🌎</h3>
-  <p>
-    <a href="https://github.com/kazvee/tinyapp/" target="_blank">
-    <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
-    </a>  
-  </p>
+  
   <div align="left">
     🔗 Full stack web application that allows users to shorten long URLs<br>
     🧪 Leverages Unit Testing<br>
     ⚙️ <strong>Tools Used:</strong> JavaScript, NodeJS, Express, EJS, Nodemon, Bcryptjs, Cookie-Session, Mocha, and Chai<br>
     📅 Built in: July 2023<br><br>
+    <p>
+      <a href="https://github.com/kazvee/tinyapp/#readme" target="_blank">
+        <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
+      </a>
+    </p>
   </div>
   
   [!["Saved URLs with Visitor Tracking Stats"](https://github.com/kazvee/kazvee/assets/109990289/5c6470e9-ff0b-4bf7-b119-760c421b6be2)](https://github.com/kazvee/tinyapp/)
@@ -268,17 +282,18 @@
   <hr>
   <!-- Snake -->
   <h3>Snake Game 🐍</h3>
-  <p>
-    <a href="https://github.com/kazvee/snake-client/" target="_blank">
-    <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
-    </a>  
-  </p>
+ 
   <div align="left">
     🐍 Multiplayer take on the very popular Snake Game<br>
     🔴 Move the snake over the red dots to eat them and grow looooonger!<br>
     🕹 Careful not to crash or it's Game Over! 😢<br>
     ⚙️ <strong>Tools Used:</strong> NodeJS, and NPM<br>
     📅 Built in: July 2023<br><br>
+    <p>
+      <a href="https://github.com/kazvee/snake-client/#readme" target="_blank">
+        <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
+      </a>
+    </p>
   </div>
   
   [![Game Server Screenshot](https://github.com/kazvee/kazvee/assets/109990289/e11b9465-5f0d-4829-95e7-07fe971031c1)](https://github.com/kazvee/snake-client/)
@@ -288,15 +303,16 @@
   <hr>
   <!-- Recipe Rank -->
   <h3>Recipe Rank 🍛</h3>
-  <p>
-    <a href="https://github.com/kazvee/recipe-rank/" target="_blank">
-    <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
-    </a>  
-  </p>
+ 
   <div align="left">
     🍲 A recipe sharing site that allows visitors to vote on the links submitted<br>
     ⚙️ <strong>Tools Used:</strong> JavaScript, React, Supabase DB, and Netlify<br>
     📅 Built in: April 2023<br><br>
+    <p>
+      <a href="https://github.com/kazvee/recipe-rank/#readme" target="_blank">
+        <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
+      </a>
+    </p>
   </div>
   
   [![Recipe Rank Screenshot](https://github.com/kazvee/kazvee/assets/109990289/32fd1c82-fde9-4b9c-83d4-ce2e79870bde)](https://github.com/kazvee/recipe-rank/)
@@ -304,11 +320,7 @@
   <hr>
   <!-- Monkey Duck Game -->
   <h3>Monkey Duck Game 🐒🦆</h3>
-  <p>
-    <a href="https://github.com/kazvee/monkey-duck-game/" target="_blank">
-    <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
-    </a>  
-  </p>
+ 
   <div align="left">
     🤩 <a href="https://monkey-duck.surge.sh/" target="_blank">Live Demo</a><br>
     🍌 Cute browser game<br>
@@ -316,6 +328,11 @@
     🦆 Get some ducks in a row, and WIN!<br>
     ⚙️ <strong>Tools Used:</strong> React<br>
     📅 Built in: October 2023<br><br>
+    <p>
+      <a href="https://github.com/kazvee/monkey-duck-game/#readme" target="_blank">
+        <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
+      </a>
+    </p>
   </div>
   
   https://github.com/kazvee/monkey-duck-game/assets/109990289/784d5c67-1879-4e17-8fe8-b645f52d9c18
@@ -323,11 +340,7 @@
   <hr>
   <!-- Fancy Buttons -->
   <h3>🟣 Fancy Buttons</h3>
-  <p>
-    <a href="https://github.com/kazvee/fancy-buttons/" target="_blank">
-    <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
-    </a>  
-  </p>
+  
   <div align="left">
     🟣 App that showcases dynamic styling and interactive buttons<br>
     😡 Angry Button<br>
@@ -336,6 +349,11 @@
     🔁 Text Repeater Button<br>
     ⚙️ <strong>Tools Used:</strong> React<br>
     📅 Built in: September 2023<br><br>
+    <p>
+      <a href="https://github.com/kazvee/fancy-buttons/#readme" target="_blank">
+        <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
+      </a>
+    </p>
   </div>
   
   <video src="https://user-images.githubusercontent.com/109990289/f3715e97-6c41-4818-b7c1-cb23cbfd7dfa.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;"></video>
@@ -343,11 +361,7 @@
   <hr>
   <!-- Hello React -->
   <h3>Hello React 🩷</h3>
-  <p>
-    <a href="https://github.com/kazvee/hello-react/" target="_blank">
-    <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
-    </a>  
-  </p>
+ 
   <div align="left">
     🩷 Small project to reinforce understanding of fundamental concepts<br>
     🚁 Passing props with JSX Handling<br>
@@ -357,6 +371,11 @@
     🎛️ Creating controlled input components<br>
     ⚙️ <strong>Tools Used:</strong> React<br>
     📅 Built in: September 2023<br><br>
+    <p>
+      <a href="https://github.com/kazvee/hello-react/#readme" target="_blank">
+        <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
+      </a>
+    </p>
   </div>
   
   https://github.com/kazvee/hello-react/assets/109990289/4abe0e96-5625-4495-a2c4-a1bff15def0f
@@ -364,17 +383,18 @@
   <hr>
   <!-- Tourney Matches -->
   <h3>Tourney Matches 🕹️</h3>
-  <p>
-    <a href="https://github.com/kazvee/tourney-matches/" target="_blank">
-    <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
-    </a>  
-  </p>
+ 
   <div align="left">
     🏒 App to practice passing down props to children elements<br>
     🐣 Refine understanding of `props.children`<br> 
     🏗️ Additional practice playing with data structures<br>
     ⚙️ <strong>Tools Used:</strong> React<br>
     📅 Built in: June 2023<br><br>
+    <p>
+      <a href="https://github.com/kazvee/tourney-matches/#readme" target="_blank">
+        <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
+      </a>
+    </p>
   </div>
   
   ![Main View](https://github.com/kazvee/tourney-matches/raw/main/public/readme_images/Main_View.png)
@@ -384,16 +404,17 @@
   <hr>
   <!-- World Times -->
   <h3>World Times 🕰️</h3>
-  <p>
-    <a href="https://github.com/kazvee/world-times/" target="_blank">
-    <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
-    </a>  
-  </p>
+
   <div align="left">
     ⏰ <a href="https://world-times.surge.sh/" target="_blank">Live Demo</a><br> 
     ⌚ Custom-built World Clock for one customer, displaying local time for their requested cities<br>
     ⚙️ <strong>Tools Used:</strong> JavaScript, Vite, Pico CSS, and Luxon library<br>
     📅 Built in: March 2023<br><br>
+    <p>
+      <a href="https://github.com/kazvee/world-times/#readme" target="_blank">
+        <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
+      </a>
+    </p>
   </div>
   
   [![World_Clock_Screenshot](https://github.com/kazvee/kazvee/assets/109990289/7ace290e-8299-484c-8c9e-84350eb97b2a)](https://github.com/kazvee/world-times/)
@@ -401,21 +422,22 @@
   <hr>
   <!-- Currency Xchange -->
   <h3>Currency Xchange 💸</h3>
-  <p>
-    <a href="https://github.com/kazvee/currency-xchange/" target="_blank">
-    <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
-    </a>  
-  </p>
+ 
   <div align="left">
     💰 Currency converter widget<br>
     🏦 Implements usage of local storage to cache API data<br>
     ⚙️ <strong>Tools Used:</strong> JavaScript, NodeJS, Express, Axios, Nodemon, CORS, and Dotenv<br>
     📅 Built in: April 2023<br><br>
+    <p>
+      <a href="https://github.com/kazvee/currency-xchange/#readme" target="_blank">
+        <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
+      </a>
+    </p>
   </div>
   
   [![CurrencyXchange](https://github.com/kazvee/kazvee/assets/109990289/223d7663-5729-4aa9-a096-42c2a83cd147)](https://github.com/kazvee/currency-xchange/)
-  
-  <hr>
+
+  <!-- <hr> -->
   <!-- Secret Project! -->
   <h3>
     <!-- Project Name -->
@@ -432,3 +454,5 @@
   <!-- <hr> -->
   <!-- End Projects -->
 </div>
+
+</details>
