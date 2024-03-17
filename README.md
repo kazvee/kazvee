@@ -55,6 +55,7 @@
 <h3 align="center">🏫 I've Had Exposure To:</h3>
 <span style="display: inline-block; line-height: 0; margin-right: 2px; margin-bottom: 2px; padding-right: 2px; padding-bottom: 2px;">
 <a href="https://github.com/kazvee/kazvee/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&style=plastic" alt="TypeScript" /></a> 
+<a href="https://github.com/kazvee/kazvee/"><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white&style=plastic" alt="Redux" /></a> 
 <a href="https://github.com/kazvee/kazvee/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&style=plastic" alt="Python" /></a> 
 <a href="https://github.com/kazvee/kazvee/"><img src="https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apache-groovy&logoColor=white&style=plastic" alt="Python" /></a> 
 <a href="https://github.com/kazvee/kazvee/"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&style=plastic" alt="Vite" /></a> 
