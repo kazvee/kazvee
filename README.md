@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://github.com/kazvee/kazvee/assets/109990289/99711080-52ab-4e25-bed3-752175d54110" alt="Banner" /></a> 
+<a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://github.com/kazvee/kazvee/assets/109990289/e6047b68-32c0-4b05-b1eb-821ac923c687" alt="Banner" /></a> 
 </div>
 
 <hr>
