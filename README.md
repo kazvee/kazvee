@@ -20,6 +20,9 @@
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Next.js-CCCCCC?style=for-the-badge&logo=next.js&logoColor=black&style=plastic" alt="Next.js" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&style=plastic" alt="Python" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Flask-CCCCCC?style=for-the-badge&logo=flask&logoColor=black&style=plastic" alt="Flask" /></a> 
+<a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=openjdk&logoColor=white&style=plastic" alt="Java" /></a> 
+<a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white&style=plastic" alt="Ruby" /></a> 
+<a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white&style=plastic" alt="Rails" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&style=plastic" alt="Node.js" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white&style=plastic" alt="Nodemon" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white&style=plastic" alt="Axios" /></a> 
@@ -28,8 +31,6 @@
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&style=plastic" alt="MongoDB" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white&style=plastic" alt="Mongoose" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white&style=plastic" alt="Supabase" /></a> 
-<a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white&style=plastic" alt="Ruby" /></a> 
-<a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white&style=plastic" alt="Rails" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&style=plastic" alt="HTML5" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white&style=plastic" alt="jQuery" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&style=plastic" alt="CSS" /></a> 
@@ -40,8 +41,9 @@
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&style=plastic" alt="Git" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/GitHub-CCCCCC?style=for-the-badge&logo=github&logoColor=black&style=plastic" alt="GitHub" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&style=plastic" alt="GitHub Actions" /></a> 
-<a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/GitBook-3884FF?style=for-the-badge&logo=gitbook&logoColor=white&style=plastic" alt="GitBook" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Markdown-CCCCCC?style=for-the-badge&logo=markdown&logoColor=black&style=plastic" alt="Markdown" /></a> 
+<a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/GitBook-3884FF?style=for-the-badge&logo=gitbook&logoColor=white&style=plastic" alt="GitBook" /></a> 
+<a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Docusaurus-3ECC5F?style=for-the-badge&logo=docusaurus&logoColor=white&style=plastic" alt="Docusaurus" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&style=plastic" alt="VS Code" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&style=plastic" alt="Postman" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/RegEx-CCCCCC?style=for-the-badge&logo=javascript&logoColor=black&style=plastic" alt="Regex" /></a> 
@@ -64,8 +66,10 @@
 <span style="display: inline-block; line-height: 0; margin-right: 2px; margin-bottom: 2px; padding-right: 2px; padding-bottom: 2px;">
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&style=plastic" alt="TypeScript" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white&style=plastic" alt="Redux" /></a> 
-<a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=openjdk&logoColor=white&style=plastic" alt="Java" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apache-groovy&logoColor=white&style=plastic" alt="Groovy" /></a> 
+<a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Docsify-2ECE53?style=for-the-badge&logo=docusaurus&logoColor=white&style=plastic" alt="Docsify" /></a> 
+<a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Eleventy-CCCCCC?style=for-the-badge&logo=eleventy&logoColor=black&style=plastic" alt="Eleventy" /></a> 
+<a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white&style=plastic" alt="Gatsby" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&style=plastic" alt="Vite" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black&style=plastic" alt="Babel" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&style=plastic" alt="AWS (Amazon Web Services)" /></a> 
@@ -115,6 +119,24 @@
   <br>
 
   <hr>
+   <!-- Coffee Calendar Events Scheduler  -->
+  <h3>📅 Coffee Calendar Events Scheduler</h3>
+  
+  <div align="left">
+    ☕ Java console application that generates a schedule of upcoming events based on user input<br>
+    🗝️ Features input validation<br>
+    ⚙️ <strong>Tools Used:</strong> Java<br>
+    📅 Built in: October 2024<br><br>
+    <p>
+      <a href="https://github.com/kazvee/coffee-calendar-events-scheduler/#readme" target="_blank">
+        <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
+        </a>
+    </p>
+  </div>
+
+https://github.com/user-attachments/assets/4cf55ba9-01a1-40b1-9125-d6524f7a10e4
+
+  <hr>
   <!-- Snake Bytes Dinner Planner -->
   <h3>🐍 Snake Bytes Dinner Planner</h3>
   
@@ -122,7 +144,7 @@
     ✨ <a href="https://kazvee.pythonanywhere.com/" target="_blank">Live Demo</a><br>
     🍛 A revamped Python dinner planner built as a frontend app with Flask<br>
     ✅ Includes user input validation and eye-catching graphics promoting healthy eating<br>
-    ⚙️ <strong>Tools Used:</strong> Python 3, Flask, Virtual Environment<br>
+    ⚙️ <strong>Tools Used:</strong> Python, Flask, Virtual Environment<br>
     📅 Built in: September 2024<br><br>
     <p>
       <a href="https://github.com/kazvee/snake-bytes/#readme" target="_blank">
