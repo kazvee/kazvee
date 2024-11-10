@@ -1,26 +1,32 @@
-<div align="center">
-<a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://github.com/kazvee/kazvee/assets/109990289/e6047b68-32c0-4b05-b1eb-821ac923c687" alt="Banner" /></a> 
-</div>
+<h3 align="center">✨ Welcome to my GitHub profile!</h3>
+Hi, I'm Karen! 👩‍💻
 
+I'm an experienced technologist with a background in software development, technical writing, and customer-facing tech support.  
+When I'm not at the keyboard, I like to travel, explore international cuisine, and spend time outdoors hiking and birdwatching. 🐦
+
+<div align="center">
+  <a href="https://kazvee.com" target="_blank"><img src="https://img.shields.io/badge/🌐-Visit%20My%20Website-purple?labelColor=indigo&style=plastic" alt="Visit My Website" style="height: 30px; width: auto;"></a>  
+</div>
+<div align="center">
+  <a href="https://kazvee.zapier.app" target="_blank"><img src="https://img.shields.io/badge/🤖-Visit%20my%20interactive%20chatbot%20-purple?labelColor=indigo&style=plastic" alt="Visit my interactive chatbot" style="height: 30px; width: auto;"></a>  
+</div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/kazvee" target="_blank"><img src="https://img.shields.io/badge/🙂-Connect%20with%20me%20on%20LinkedIn-purple?labelColor=indigo&style=plastic" alt="Connect with me on LinkedIn" style="height: 30px; width: auto;"></a>  
+</div>
 <hr>
-
+<h3 align="center">💻 Technologies I Use:</h3>
 <div align="center">
-<span>
-<a href="https://kazvee.com/" target="_blank"><img src="https://github.com/kazvee/kazvee/assets/109990289/e79118a7-b0fc-4694-be8b-69bba4f9f233" alt="Visit my Portfolio" /></a> 
-</span>
-<span>
-<a href="https://www.linkedin.com/in/kazvee" target="_blank"><img src="https://github.com/kazvee/kazvee/assets/109990289/06bed435-5823-4bfb-a5be-87186209fbd4" alt="Connect with me on LinkedIn" /></a> 
-</span>
-</div>
-
-<h3 align="center">✨ I'm Familiar With:</h3>
-<span style="display: inline-block; line-height: 0; margin-right: 2px; margin-bottom: 2px; padding-right: 2px; padding-bottom: 2px;">
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&style=plastic" alt="JavaScript"></a>
+<a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&style=plastic" alt="TypeScript" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black&style=plastic" alt="React.js" /></a>
+<a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white&style=plastic" alt="Redux" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Next.js-CCCCCC?style=for-the-badge&logo=next.js&logoColor=black&style=plastic" alt="Next.js" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&style=plastic" alt="Python" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Flask-CCCCCC?style=for-the-badge&logo=flask&logoColor=black&style=plastic" alt="Flask" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=openjdk&logoColor=white&style=plastic" alt="Java" /></a> 
+<a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&style=plastic" alt="Spring Framework" /></a> 
+<a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&style=plastic" alt="Spring Boot" /></a> 
+<a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apache-groovy&logoColor=white&style=plastic" alt="Groovy" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white&style=plastic" alt="Ruby" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white&style=plastic" alt="Rails" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&style=plastic" alt="Node.js" /></a> 
@@ -44,6 +50,7 @@
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Markdown-CCCCCC?style=for-the-badge&logo=markdown&logoColor=black&style=plastic" alt="Markdown" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/GitBook-3884FF?style=for-the-badge&logo=gitbook&logoColor=white&style=plastic" alt="GitBook" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Docusaurus-3ECC5F?style=for-the-badge&logo=docusaurus&logoColor=white&style=plastic" alt="Docusaurus" /></a> 
+<a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/⭕-MediaWiki-FF801F?style=for-the-badge&logo=mediawiki&logoColor=white&style=plastic&labelColor=3B5B6E" alt="MediaWiki" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&style=plastic" alt="VS Code" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&style=plastic" alt="Postman" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/RegEx-CCCCCC?style=for-the-badge&logo=javascript&logoColor=black&style=plastic" alt="Regex" /></a> 
@@ -54,19 +61,16 @@
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=chai&logoColor=white&style=plastic" alt="Chai" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&style=plastic" alt="Linux" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&style=plastic" alt="Bash" /></a> 
-<a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white&style=plastic" alt="Stripe" /></a> 
+<a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white&style=plastic" alt="FileZilla" /></a> 
+<a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&style=plastic" alt="Docker" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/CircleCI-CCCCCC?style=for-the-badge&logo=circleci&logoColor=black&style=plastic" alt="CircleCI" /></a> 
+<a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white&style=plastic" alt="Stripe" /></a> 
+<a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/CodePen-CCCCCC?style=for-the-badge&logo=codepen&logoColor=black&style=plastic" alt="CodePen" /></a>
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&style=plastic" alt="Netlify" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Vercel-CCCCCC?style=for-the-badge&logo=vercel&logoColor=black&style=plastic" alt="Vercel" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white&style=plastic" alt="Replit" /></a>
-<a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/CodePen-CCCCCC?style=for-the-badge&logo=codepen&logoColor=black&style=plastic" alt="CodePen" /></a> 
+<a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Railway-CCCCCC?style=for-the-badge&logo=railway&logoColor=black&style=plastic" alt="Railway" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Mantine-339AF0?style=for-the-badge&logo=mantine&logoColor=white&style=plastic" alt="Mantine" /></a> 
-</span>
-<h3 align="center">✨ I've Had Exposure To:</h3>
-<span style="display: inline-block; line-height: 0; margin-right: 2px; margin-bottom: 2px; padding-right: 2px; padding-bottom: 2px;">
-<a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&style=plastic" alt="TypeScript" /></a> 
-<a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white&style=plastic" alt="Redux" /></a> 
-<a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apache-groovy&logoColor=white&style=plastic" alt="Groovy" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Docsify-2ECE53?style=for-the-badge&logo=docusaurus&logoColor=white&style=plastic" alt="Docsify" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Eleventy-CCCCCC?style=for-the-badge&logo=eleventy&logoColor=black&style=plastic" alt="Eleventy" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white&style=plastic" alt="Gatsby" /></a> 
@@ -82,17 +86,17 @@
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&style=plastic" alt="SQLite" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white&style=plastic" alt="Azure DevOps" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white&style=plastic" alt="Cloudflare" /></a> 
-<a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&style=plastic" alt="Docker" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&style=plastic" alt="Figma" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&style=plastic" alt="Firebase" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&style=plastic" alt="GraphQL" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white&style=plastic" alt="Vim" /></a> 
 </span>
-<br><br>
+
+<hr>
 
   <div align="center">
 
-  <h3>GitHub Stats 📊</h3>
+  <h3>📊 GitHub Stats</h3>
 
   <details>
     
@@ -111,7 +115,7 @@
 
   <div align="center">
 
-  <h3>My Projects 💻</h3>
+  <h3>📚 My Projects</h3>
 
   <details>
     
@@ -581,5 +585,5 @@ https://github.com/kazvee/meme-maker/assets/109990289/d75548b9-bbbb-43a3-8c7d-56
 <hr>
 
 <div align="center">
-  <img src="https://hits.sh/github.com/kazvee/hits.svg?style=plastic&label=Visitors&color=00000000&labelColor=00000000&logo=github">
+  <img src="https://hits.sh/github.com/kazvee/hits.svg?style=plastic&label=Visitors&color=purple&labelColor=indigo&logo=github">
 </div>
