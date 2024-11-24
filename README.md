@@ -1,8 +1,21 @@
-<h3 align="center">✨ Welcome to my GitHub profile!</h3>
-Hi, I'm Karen! 👩‍💻
+<div align="left">
+  <div style="display: flex; align-items: center; justify-content: center;">
+    <picture>
+      <source srcset="https://img.icons8.com/keek/50/bright-moon.png" alt="Dark Mode Moon" media="(prefers-color-scheme: dark)">
+      <img src="https://img.icons8.com/keek/50/summer.png" alt="Light Mode Sun">
+    </picture>
+    <picture>
+      <source srcset="https://img.shields.io/badge/Hello%2C%20Light%20Mode%20Visitor!-%23ffffff?style=flat-square" alt="Light Mode Button" height="25" media="(prefers-color-scheme: light)">
+      <img src="https://img.shields.io/badge/Hello%2C%20Dark%20Mode%20Visitor!-%230D1117?style=flat-square" alt="Dark Mode Button" height="25">
+    </picture>
+  </div>
+</div>
+
+<h3 align="center">👩‍💻 Welcome to my GitHub profile!</h3>
+Hi, I'm Karen! 🙂
 
 I'm an experienced technologist with a background in software development, technical writing, and customer-facing tech support.  
-When I'm not at the keyboard, I like to travel, explore international cuisine, and spend time outdoors hiking and birdwatching. 🐦
+When I'm not at the keyboard, I like to travel, explore international cuisine, and spend time outdoors hiking and birdwatching. 🐦  
 
 <div align="center">
   <a href="https://kazvee.com" target="_blank"><img src="https://img.shields.io/badge/🌐-Visit%20My%20Website-purple?labelColor=indigo&style=plastic" alt="Visit My Website" style="height: 30px; width: auto;"></a>  
@@ -47,8 +60,9 @@ When I'm not at the keyboard, I like to travel, explore international cuisine, a
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&style=plastic" alt="Git" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/GitHub-CCCCCC?style=for-the-badge&logo=github&logoColor=black&style=plastic" alt="GitHub" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&style=plastic" alt="GitHub Actions" /></a> 
-<a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Markdown-CCCCCC?style=for-the-badge&logo=markdown&logoColor=black&style=plastic" alt="Markdown" /></a> 
+<a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&style=plastic" alt="GitLab" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/GitBook-3884FF?style=for-the-badge&logo=gitbook&logoColor=white&style=plastic" alt="GitBook" /></a> 
+<a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Markdown-CCCCCC?style=for-the-badge&logo=markdown&logoColor=black&style=plastic" alt="Markdown" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Docusaurus-3ECC5F?style=for-the-badge&logo=docusaurus&logoColor=white&style=plastic" alt="Docusaurus" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/⭕-MediaWiki-FF801F?style=for-the-badge&logo=mediawiki&logoColor=white&style=plastic&labelColor=3B5B6E" alt="MediaWiki" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&style=plastic" alt="VS Code" /></a> 
