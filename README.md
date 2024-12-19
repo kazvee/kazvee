@@ -598,6 +598,11 @@ https://github.com/kazvee/meme-maker/assets/109990289/d75548b9-bbbb-43a3-8c7d-56
 
 <hr>
 
+<h3 align="center">🤗 Thanks & Acknowledgements</h3>
+<a target="_blank" href="https://icons8.com/icon/hPgLrdD9eLiu/summer">Sun</a> and <a target="_blank" href="https://icons8.com/icon/BRabI5j7b1bI/moon-and-stars">Moon and Stars</a> icons by <a target="_blank" href="https://icons8.com">Icons8</a>
+
+<hr>
+
 <div align="center">
   <img src="https://hits.sh/github.com/kazvee/hits.svg?style=plastic&label=Visitors&color=purple&labelColor=indigo&logo=github">
 </div>
