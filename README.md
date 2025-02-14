@@ -139,18 +139,36 @@ When I'm not at the keyboard, I like to travel, explore international cuisine, a
   <br>
 
   <hr>
+  <!-- Heliopolis  -->
+  <h3>🌞 Heliopolis </h3>
+  
+  <div align="left">
+    ✨ <a href="https://heliopolis.helioho.st/" target="_blank" rel="noopener noreferrer">Live Demo</a><br>
+    🎮 Cute browser-based exploration game<br>
+    📱 Playable on Desktop and Mobile<br>
+    ⚙️ <strong>Tools Used:</strong> JavaScript, Kaplay, Vite, CSS, HTML<br>
+    📅 Built in: February 2025<br><br>
+    <p>
+      <a href="https://github.com/kazvee/heliopolis/#readme" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
+        </a>
+    </p>
+  </div>
 
+https://github.com/user-attachments/assets/1b570ae4-632b-4dd7-80a1-2072206760e3
+
+  <hr>
   <!-- Provisioning -->
   <h3>🍛 Provisioning</h3>
   
   <div align="left">
-    ✨ <a href="https://provisioning.kazvee.com/" target="_blank">Live Demo</a><br>
+    ✨ <a href="https://provisioning.kazvee.com/" target="_blank" rel="noopener noreferrer">Live Demo</a><br>
     🍲 Online recipe collection for easy lookup and seamless sharing<br>
     📑 Features category and tag browsing, quick search, and eye-catching image carousel<br>
-    ⚙️ <strong>Tools Used:</strong> React, Docusaurus, Lunr Search, Markdown<br>
+    ⚙️ <strong>Tools Used:</strong> React, Docusaurus, Lunr Search, Markdown, JavaScript, CSS, HTML<br>
     📅 Built in: January 2025<br><br>
     <p>
-      <a href="https://github.com/kazvee/provisioning/#readme" target="_blank">
+      <a href="https://github.com/kazvee/provisioning/#readme" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
         </a>
     </p>
@@ -158,6 +176,7 @@ When I'm not at the keyboard, I like to travel, explore international cuisine, a
 
   [![Provisioning Main Page](https://github.com/user-attachments/assets/f05c8455-fb83-4174-a80a-beb2ea31506e)](https://github.com/kazvee/provisioning/#readme)
 
+  <hr>
   <!-- ezReply -->
   <h3>🪶 ezReply </h3>
   
@@ -167,7 +186,7 @@ When I'm not at the keyboard, I like to travel, explore international cuisine, a
     ⚙️ <strong>Tools Used:</strong> Python, Flask, HTML, CSS, Virtual Environment<br>
     📅 Built in: November 2024<br><br>
     <p>
-      <a href="https://github.com/kazvee/ezReply/#readme" target="_blank">
+      <a href="https://github.com/kazvee/ezReply/#readme" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
         </a>
     </p>
@@ -175,7 +194,8 @@ When I'm not at the keyboard, I like to travel, explore international cuisine, a
 
 https://github.com/user-attachments/assets/ac7347db-aed2-4433-a271-261b0d06912c
 
-   <!-- Follow Check -->
+  <hr>
+  <!-- Follow Check -->
   <h3>🕵️‍♀️ Follow Check</h3>
   
   <div align="left">
@@ -183,7 +203,7 @@ https://github.com/user-attachments/assets/ac7347db-aed2-4433-a271-261b0d06912c
     ⚙️ <strong>Tools Used:</strong> JavaScript, Node.js, Express, Axios, Dotenv, HTML, CSS<br>
     📅 Built in: November 2024<br><br>
     <p>
-      <a href="https://github.com/kazvee/follow-check/#readme" target="_blank">
+      <a href="https://github.com/kazvee/follow-check/#readme" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
         </a>
     </p>
@@ -191,7 +211,8 @@ https://github.com/user-attachments/assets/ac7347db-aed2-4433-a271-261b0d06912c
 
   [![Follow Check](https://github.com/user-attachments/assets/f158949d-89eb-4d1a-8443-1d4722d4de8b)](https://github.com/kazvee/follow-check/#readme)
 
-   <!-- Coffee Calendar Events Scheduler -->
+  <hr>
+  <!-- Coffee Calendar Events Scheduler -->
   <h3>📅 Coffee Calendar Events Scheduler</h3>
   
   <div align="left">
@@ -200,7 +221,7 @@ https://github.com/user-attachments/assets/ac7347db-aed2-4433-a271-261b0d06912c
     ⚙️ <strong>Tools Used:</strong> Java, CLI (Command Line Interface)<br>
     📅 Built in: October 2024<br><br>
     <p>
-      <a href="https://github.com/kazvee/coffee-calendar-events-scheduler/#readme" target="_blank">
+      <a href="https://github.com/kazvee/coffee-calendar-events-scheduler/#readme" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
         </a>
     </p>
@@ -213,13 +234,13 @@ https://github.com/user-attachments/assets/4cf55ba9-01a1-40b1-9125-d6524f7a10e4
   <h3>🐍 Snake Bytes Dinner Planner</h3>
   
   <div align="left">
-    ✨ <a href="https://kazvee.pythonanywhere.com/" target="_blank">Live Demo</a><br>
+    ✨ <a href="https://kazvee.pythonanywhere.com/" target="_blank" rel="noopener noreferrer">Live Demo</a><br>
     🍛 A revamped Python dinner planner built as a frontend app with Flask<br>
     ✅ Includes user input validation and eye-catching graphics promoting healthy eating<br>
     ⚙️ <strong>Tools Used:</strong> Python, Flask, Virtual Environment<br>
     📅 Built in: September 2024<br><br>
     <p>
-      <a href="https://github.com/kazvee/snake-bytes/#readme" target="_blank">
+      <a href="https://github.com/kazvee/snake-bytes/#readme" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
         </a>
     </p>
@@ -228,7 +249,7 @@ https://github.com/user-attachments/assets/4cf55ba9-01a1-40b1-9125-d6524f7a10e4
 https://github.com/user-attachments/assets/fbc45632-b4c9-4fae-823b-1315b68df85a
 
   <hr>
-   <!-- Console-based Dinner Planner -->
+  <!-- Console-based Dinner Planner -->
   <h3>💻 Console-based Dinner Planner</h3>
   
   <div align="left">
@@ -237,7 +258,7 @@ https://github.com/user-attachments/assets/fbc45632-b4c9-4fae-823b-1315b68df85a
     ⚙️ <strong>Tools Used:</strong> Python, CLI (Command Line Interface)<br>
     📅 Built in: August 2024<br><br>
     <p>
-      <a href="https://github.com/kazvee/snake-bytes-console/#readme" target="_blank">
+      <a href="https://github.com/kazvee/snake-bytes-console/#readme" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
         </a>
     </p>
@@ -246,17 +267,17 @@ https://github.com/user-attachments/assets/fbc45632-b4c9-4fae-823b-1315b68df85a
 https://github.com/user-attachments/assets/653ff4d4-6e3f-4624-86b4-2a0e19b7622d
 
   <hr>
- <!-- Bestie Squad -->
+  <!-- Bestie Squad -->
   <h3>Bestie Squad 🐰</h3>
   
   <div align="left">
-    ✨ <a href="kazvee.github.io/bestie-squad/" target="_blank">Live Demo</a><br>
+    ✨ <a href="kazvee.github.io/bestie-squad/" target="_blank" rel="noopener noreferrer">Live Demo</a><br>
     😻 Redux application that enables users to create and manage their list of friends<br>
     🗝️ Features key Redux concepts such as Reducers, Actions, and the Store structure
     ⚙️ <strong>Tools Used:</strong> Redux (Reducers, Actions, Store), JavaScript, React, HTML, CSS, Yarn, GitHub Pagesbr>
     📅 Built in: March 2024<br><br>
     <p>
-      <a href="https://github.com/kazvee/bestie-squad/#readme" target="_blank">
+      <a href="https://github.com/kazvee/bestie-squad/#readme" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
         </a>
     </p>
@@ -265,7 +286,7 @@ https://github.com/user-attachments/assets/653ff4d4-6e3f-4624-86b4-2a0e19b7622d
 https://github.com/kazvee/bestie-squad/assets/109990289/75cb6ab4-7d0a-48d3-a62d-4c9f7fb345d1
 
   <hr>
- <!-- Meme Maker -->
+  <!-- Meme Maker -->
   <h3>Meme Maker 🖼️</h3>
   
   <div align="left">
@@ -274,7 +295,7 @@ https://github.com/kazvee/bestie-squad/assets/109990289/75cb6ab4-7d0a-48d3-a62d-
     ⚙️ <strong>Tools Used:</strong> Redux (Reducers, Actions, Store), JavaScript, React, HTML, CSS, Thunk, API, Bootstrap<br>
     📅 Built in: March 2024<br><br>
     <p>
-      <a href="https://github.com/kazvee/meme-maker/#readme" target="_blank">
+      <a href="https://github.com/kazvee/meme-maker/#readme" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
         </a>
     </p>
@@ -283,16 +304,16 @@ https://github.com/kazvee/bestie-squad/assets/109990289/75cb6ab4-7d0a-48d3-a62d-
 https://github.com/kazvee/meme-maker/assets/109990289/d75548b9-bbbb-43a3-8c7d-56d6dace0f0e
 
   <hr>
- <!-- Portfolio -->
+  <!-- Portfolio -->
   <h3>My Portfolio 👩‍💻</h3>
   
   <div align="left">
-    ✨ <a href="https://kazvee.com/" target="_blank">Live Demo</a><br>
+    ✨ <a href="https://kazvee.com/" target="_blank" rel="noopener noreferrer">Live Demo</a><br>
     👩‍💻 My web developer portfolio<br>
     ⚙️ <strong>Tools Used:</strong> Next.js, JavaScript, TypeScript, Node.js, HTML, CSS, Tailwind CSS<br>
     📅 Built in: January 2024<br><br>
     <p>
-       <a href="https://github.com/kazvee/portfolio/#readme" target="_blank">
+       <a href="https://github.com/kazvee/portfolio/#readme" target="_blank" rel="noopener noreferrer">
          <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
        </a>
     </p>
@@ -300,28 +321,6 @@ https://github.com/kazvee/meme-maker/assets/109990289/d75548b9-bbbb-43a3-8c7d-56
 
   https://github.com/user-attachments/assets/2a143ff7-b9ee-4dd6-a8a9-26abb4717dfa
 
-  <hr>
-  <!-- PawTrackr -->
-  <h3>PawTrackr 🐾</h3>
-  
-  <div align="left">
-    ✨ <a href="https://pawtrackr.netlify.app/" target="_blank">Live Demo</a><br>
-    🐾 Final Group Project - Full Stack Pet Care Management App<br>
-    😺 Schedule feeding times<br>
-    🐶 Create exercise reminders<br>
-    🧑‍⚕️ Handle Vet appointments<br>
-    🤩 Features: Calendar, Drag & Drop, Pagination<br>
-    ⚙️ <strong>Tools Used:</strong> React, JavaScript, HTML, CSS, Node.js, Express, Axios, Bootstrap, PostgreSQL, Netlify<br>
-    📅 Built in: December 2023<br><br>
-    <p>
-      <a href="https://github.com/kazvee/PawTrackr/#readme" target="_blank">
-        <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
-        </a>
-    </p>
-  </div>
-  
-  https://github.com/kazvee/kazvee/assets/109990289/3d1d365b-22b7-4c65-a628-3d838b7c08f1
-  
   <hr>
   <!-- Jungle-->
   <h3>Jungle 🪴</h3>
@@ -337,7 +336,7 @@ https://github.com/kazvee/meme-maker/assets/109990289/d75548b9-bbbb-43a3-8c7d-56
     ⚙️ <strong>Tools Used:</strong> Ruby on Rails, HTML, CSS, SCSS, ERB (Embedded Ruby), MVC (Model-View-Controller) Architecture, Active Record ORM (Object-Relational Mapping), Bootstrap, PostgreSQL, Bcrypt, Stripe, RSpec, Cypress<br>
     📅 Built in: November 2023<br><br>
     <p>
-      <a href="https://github.com/kazvee/jungle_rails/#readme" target="_blank">
+      <a href="https://github.com/kazvee/jungle_rails/#readme" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
       </a>  
     </p>
@@ -356,7 +355,7 @@ https://github.com/kazvee/meme-maker/assets/109990289/d75548b9-bbbb-43a3-8c7d-56
     ⚙️ <strong>Tools Used:</strong>  React, JavaScript, HTML, CSS, SCSS, Node.js, Axios, Dotenv, Cypress, Jest, TDD (Test Driven Development), SPA (Single Page Application), Railway, CircleCI (CI/CD), Netlify
     📅 Built in: October 2023<br><br>
     <p>
-      <a href="https://github.com/kazvee/scheduler/#readme" target="_blank">
+      <a href="https://github.com/kazvee/scheduler/#readme" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
       </a>  
     </p>
@@ -374,7 +373,7 @@ https://github.com/kazvee/meme-maker/assets/109990289/d75548b9-bbbb-43a3-8c7d-56
     ⚙️ <strong>Tools Used:</strong> React, JavaScript, HTML, CSS, SCSS, Express, PostgreSQL, API, Babel, Dotenv, SPA (Single Page Application)<br>
     📅 Built in: September 2023<br><br>
     <p>
-      <a href="https://github.com/kazvee/photolabs/#readme" target="_blank">
+      <a href="https://github.com/kazvee/photolabs/#readme" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
       </a>
     </p>
@@ -393,7 +392,7 @@ https://github.com/kazvee/meme-maker/assets/109990289/d75548b9-bbbb-43a3-8c7d-56
     ⚙️ <strong>Tools Used:</strong>  Ruby, OOP (Object Oriented Programming), CLI (Command Line Interface)<br>
     📅 Built in: October 2023<br><br>
     <p>
-    <a href="https://github.com/kazvee/two_player_game/#readme" target="_blank">
+    <a href="https://github.com/kazvee/two_player_game/#readme" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
     </a>  
   </p>
@@ -413,31 +412,13 @@ https://github.com/kazvee/meme-maker/assets/109990289/d75548b9-bbbb-43a3-8c7d-56
     ⚙️ <strong>Tools Used:</strong> JavaScript, Node.js, Express, HTML, CSS, SASS, jQuery, AJAX, SPA (Single Page Application)<br>
     📅 Built in: July 2023<br><br>
      <p>
-       <a href="https://github.com/kazvee/tweeter/#readme" target="_blank">
+       <a href="https://github.com/kazvee/tweeter/#readme" target="_blank" rel="noopener noreferrer">
          <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
        </a>
      </p>
   </div>
   
   https://user-images.githubusercontent.com/109990289/198e575d-ce26-4269-bf38-631e0c7a2a39
-  
-  <hr>
-  <!-- Resource Wall -->
-  <h3>Resource Wall 📚</h3>
- 
-  <div align="left">
-    🤝 Midterm Group Project - Resource sharing site<br>
-    🖼️ Enables users to save & share internet links, blogs, or videos<br>
-    ⚙️ <strong>Tools Used:</strong> JavaScript, Node.js, Express, PostgreSQL, EJS (Embedded JavaScript),HTML, CSS, SASS<br>
-    📅 Built in: September 2023<br><br>
-    <p>
-      <a href="https://github.com/kazvee/resource-wall/#readme" target="_blank">
-        <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
-      </a>  
-    </p>
-  </div>
-  
-  [![View of Homepage with All Resources](https://github.com/kazvee/kazvee/assets/109990289/9c1cfcb5-35e9-4791-951f-5e5e6edeabbe)](https://github.com/kazvee/resource-wall/#readme)
   
   <hr>
   <!-- LightBnB -->
@@ -449,7 +430,7 @@ https://github.com/kazvee/meme-maker/assets/109990289/d75548b9-bbbb-43a3-8c7d-56
     ⚙️ <strong>Tools Used:</strong> JavaScript, NodeJS, Express, PostgreSQL, SASS, Bcrypt, Cookie-Session, Nodemon, Dotenv<br>
     📅 Built in: August 2023<br><br>
     <p>
-      <a href="https://github.com/kazvee/LightBnB/#readme" target="_blank">
+      <a href="https://github.com/kazvee/LightBnB/#readme" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
       </a>
     </p>
@@ -467,7 +448,7 @@ https://github.com/kazvee/meme-maker/assets/109990289/d75548b9-bbbb-43a3-8c7d-56
     ⚙️ <strong>Tools Used:</strong> JavaScript, NodeJS, Express, EJS, Nodemon, Bcryptjs, Cookie-Session, Mocha, Chai<br>
     📅 Built in: July 2023<br><br>
     <p>
-      <a href="https://github.com/kazvee/tinyapp/#readme" target="_blank">
+      <a href="https://github.com/kazvee/tinyapp/#readme" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
       </a>
     </p>
@@ -486,7 +467,7 @@ https://github.com/kazvee/meme-maker/assets/109990289/d75548b9-bbbb-43a3-8c7d-56
     ⚙️ <strong>Tools Used:</strong> NodeJS, NPM<br>
     📅 Built in: July 2023<br><br>
     <p>
-      <a href="https://github.com/kazvee/snake-client/#readme" target="_blank">
+      <a href="https://github.com/kazvee/snake-client/#readme" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
       </a>
     </p>
@@ -501,12 +482,12 @@ https://github.com/kazvee/meme-maker/assets/109990289/d75548b9-bbbb-43a3-8c7d-56
   <h3>Recipe Rank 🍛</h3>
  
   <div align="left">
-    ✨ <a href="https://kazvee.github.io/recipe-rank/" target="_blank">Live Demo</a><br>
+    ✨ <a href="https://kazvee.github.io/recipe-rank/" target="_blank" rel="noopener noreferrer">Live Demo</a><br>
     🍲 A recipe sharing site that allows visitors to vote on the links submitted<br>
     ⚙️ <strong>Tools Used:</strong> React, JavaScript, HTML, CSS, Supabase, GitHub Pages, Netlify<br>
     📅 Built in: April 2023<br><br>
     <p>
-      <a href="https://github.com/kazvee/recipe-rank/#readme" target="_blank">
+      <a href="https://github.com/kazvee/recipe-rank/#readme" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
       </a>
     </p>
@@ -519,14 +500,14 @@ https://github.com/kazvee/meme-maker/assets/109990289/d75548b9-bbbb-43a3-8c7d-56
   <h3>Monkey Duck Game 🐒🦆</h3>
  
   <div align="left">
-    🤩 <a href="https://monkey-duck.surge.sh/" target="_blank">Live Demo</a><br>
+    🤩 <a href="https://monkey-duck.surge.sh/" target="_blank" rel="noopener noreferrer">Live Demo</a><br>
     🍌 Cute browser game<br>
     🐒 Ask the monkeys to shuffle colourful emojis<br>
     🦆 Get some ducks in a row, and WIN!<br>
     ⚙️ <strong>Tools Used:</strong> React, JavaScript, HTML, CSS, GitHub Pages, Surge, SPA (Single Page Application)<br>
     📅 Built in: October 2023<br><br>
     <p>
-      <a href="https://github.com/kazvee/monkey-duck-game/#readme" target="_blank">
+      <a href="https://github.com/kazvee/monkey-duck-game/#readme" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
       </a>
     </p>
@@ -547,7 +528,7 @@ https://github.com/kazvee/meme-maker/assets/109990289/d75548b9-bbbb-43a3-8c7d-56
     ⚙️ <strong>Tools Used:</strong> React<br>
     📅 Built in: September 2023<br><br>
     <p>
-      <a href="https://github.com/kazvee/fancy-buttons/#readme" target="_blank">
+      <a href="https://github.com/kazvee/fancy-buttons/#readme" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
       </a>
     </p>
@@ -569,7 +550,7 @@ https://github.com/kazvee/meme-maker/assets/109990289/d75548b9-bbbb-43a3-8c7d-56
     ⚙️ <strong>Tools Used:</strong> React<br>
     📅 Built in: September 2023<br><br>
     <p>
-      <a href="https://github.com/kazvee/hello-react/#readme" target="_blank">
+      <a href="https://github.com/kazvee/hello-react/#readme" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
       </a>
     </p>
@@ -588,7 +569,7 @@ https://github.com/kazvee/meme-maker/assets/109990289/d75548b9-bbbb-43a3-8c7d-56
     ⚙️ <strong>Tools Used:</strong> React<br>
     📅 Built in: June 2023<br><br>
     <p>
-      <a href="https://github.com/kazvee/tourney-matches/#readme" target="_blank">
+      <a href="https://github.com/kazvee/tourney-matches/#readme" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
       </a>
     </p>
@@ -608,7 +589,7 @@ https://github.com/kazvee/meme-maker/assets/109990289/d75548b9-bbbb-43a3-8c7d-56
     ⚙️ <strong>Tools Used:</strong> JavaScript, Vite, Pico CSS, Luxon library<br>
     📅 Built in: March 2023<br><br>
     <p>
-      <a href="https://github.com/kazvee/world-times/#readme" target="_blank">
+      <a href="https://github.com/kazvee/world-times/#readme" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
       </a>
     </p>
@@ -626,7 +607,7 @@ https://github.com/kazvee/meme-maker/assets/109990289/d75548b9-bbbb-43a3-8c7d-56
     ⚙️ <strong>Tools Used:</strong> JavaScript, NodeJS, Express, Axios, Nodemon, CORS, Dotenv<br>
     📅 Built in: April 2023<br><br>
     <p>
-      <a href="https://github.com/kazvee/currency-xchange/#readme" target="_blank">
+      <a href="https://github.com/kazvee/currency-xchange/#readme" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
       </a>
     </p>
@@ -639,7 +620,7 @@ https://github.com/kazvee/meme-maker/assets/109990289/d75548b9-bbbb-43a3-8c7d-56
 <hr>
 
 <h3 align="center">🤗 Thanks & Acknowledgements</h3>
-<a target="_blank" href="https://icons8.com/icon/hPgLrdD9eLiu/summer">Sun</a> and <a target="_blank" href="https://icons8.com/icon/BRabI5j7b1bI/moon-and-stars">Moon and Stars</a> icons by <a target="_blank" href="https://icons8.com">Icons8</a>
+<a href="https://icons8.com/icon/hPgLrdD9eLiu/summer" target="_blank" rel="noopener noreferrer">Sun</a> and <a href="https://icons8.com/icon/BRabI5j7b1bI/moon-and-stars" target="_blank" rel="noopener noreferrer">Moon and Stars</a> icons by <a href="https://icons8.com" target="_blank" rel="noopener noreferrer">Icons8</a>
 
 <hr>
 
