@@ -181,6 +181,7 @@ https://github.com/user-attachments/assets/1b570ae4-632b-4dd7-80a1-2072206760e3
   <h3>🪶 ezReply </h3>
   
   <div align="left">
+    ✨ <a href="https://ezreply.kazvee.com/" target="_blank" rel="noopener noreferrer">Live Demo</a><br>
     👩‍💻 Streamlines customer support with dynamic, pre-written answers to common queries<br>
     ✅ Features a built-in copy button for quick responses<br>
     ⚙️ <strong>Tools Used:</strong> Python, Flask, HTML, CSS, Virtual Environment<br>
