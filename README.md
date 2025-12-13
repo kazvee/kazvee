@@ -139,8 +139,27 @@ When I'm not at the keyboard, I like to travel, explore international cuisine, a
   <br>
 
   <hr>
+  <!-- LocalBytes -->
+  <h3>🍔 LocalBytes</h3>
+  
+  <div align="left">
+    ✨ <a href="https://kazvee.github.io/localbytes/" target="_blank" rel="noopener noreferrer">Live Demo</a><br>
+    🍛 Lightweight, responsive restaurant explorer<br>
+    🔎 Search meals by dish or cuisine and view recommended dishes<br>
+    ⚙️ <strong>Tools Used:</strong> JavaScript, React, Vite, Fuse.js, CSS, HTML<br>
+    📅 Built in: December 2025<br><br>
+    <p>
+      <a href="https://github.com/kazvee/localbytes/#readme" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
+        </a>
+    </p>
+  </div>
+
+  [![LocalBytes Mobile View](https://github.com/user-attachments/assets/5ce9c3d1-bf1f-49c8-ba30-be30d261b30e)](https://github.com/kazvee/localbytes/#readme)
+
+  <hr>
   <!-- Heliopolis  -->
-  <h3>🌞 Heliopolis </h3>
+  <h3>🌞 Heliopolis</h3>
   
   <div align="left">
     ✨ <a href="https://heliopolis.helioho.st/" target="_blank" rel="noopener noreferrer">Live Demo</a><br>
