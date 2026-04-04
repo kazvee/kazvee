@@ -101,7 +101,9 @@ When I'm not at the keyboard, I like to travel, explore international cuisine, a
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&style=plastic" alt="MySQL" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&style=plastic" alt="SQLite" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white&style=plastic" alt="Azure DevOps" /></a> 
+<a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/PostHog-CCCCCC?style=for-the-badge&logo=posthog&logoColor=black&style=plastic" alt="PostHog" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white&style=plastic" alt="Cloudflare" /></a> 
+<a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Umami-CCCCCC?style=for-the-badge&logo=umami&logoColor=black&style=plastic" alt="Umami" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&style=plastic" alt="Figma" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&style=plastic" alt="Firebase" /></a> 
 <a href="https://github.com/kazvee/kazvee/" target="_blank"><img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&style=plastic" alt="GraphQL" /></a> 
@@ -139,6 +141,47 @@ When I'm not at the keyboard, I like to travel, explore international cuisine, a
   <br>
 
   <hr>
+
+  <!-- Touch Grass -->
+  <h3>🌱 Touch Grass</h3>
+  
+  <div align="left">
+    ✨ <a href="https://touchgrass.kazvee.com/" target="_blank" rel="noopener">Live Demo</a><br>
+    📍 Mobile-first interactive visited places tracker<br>
+    🔎 Search for interesting places to explore<br>
+    ⚙️ <strong>Tools Used:</strong> PHP, jQuery, JavaScript, CSS<br>
+    📅 Built in: April 2026<br><br>
+    <p>
+      <a href="https://github.com/kazvee/touchgrass/#readme" target="_blank" rel="noopener">
+        <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
+        </a>
+    </p>
+  </div>
+
+  [![Touch Grass Mobile View](https://github.com/user-attachments/assets/51d0b390-ed3d-44b4-983a-ce7bebf6da44)](https://github.com/kazvee/touchgrass/#readme)
+
+  <hr>
+  
+  <!-- Birb TV -->
+  <h3>📺 Birb TV</h3>
+  
+  <div align="left">
+    🐦 Backyard wildlife camera app<br>
+    🍓 Raspberry Pi + Webcam = live streaming<br>
+    📷 Manual photo capture with gallery collections<br>
+    ⚙️ <strong>Tools Used:</strong> Python, Flask, CSS, HTML<br>
+    📅 Built in: March 2026<br><br>
+    <p>
+      <a href="https://github.com/kazvee/birb_tv/#readme" target="_blank" rel="noopener">
+        <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
+        </a>
+    </p>
+  </div>
+
+  [![Birb TV Screenshot](https://github.com/user-attachments/assets/770cfa3b-7f8c-420b-adb6-501a23a4ddb1)](https://github.com/kazvee/birb_tv/#readme)
+
+  <hr>
+
   <!-- LocalBytes -->
   <h3>🍔 LocalBytes</h3>
   
