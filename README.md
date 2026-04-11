@@ -297,7 +297,7 @@ https://github.com/user-attachments/assets/4cf55ba9-01a1-40b1-9125-d6524f7a10e4
   <h3>🐍 Snake Bytes Dinner Planner</h3>
   
   <div align="left">
-    ✨ <a href="https://kazvee.pythonanywhere.com/" target="_blank" rel="noopener">Live Demo</a><br>
+    ✨ <a href="https://snakebytes.kazvee.com/" target="_blank" rel="noopener">Live Demo</a><br>
     🍛 A revamped Python dinner planner built as a frontend app with Flask<br>
     ✅ Includes user input validation and eye-catching graphics promoting healthy eating<br>
     ⚙️ <strong>Tools Used:</strong> Python, Flask, Virtual Environment<br>
