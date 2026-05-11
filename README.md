@@ -545,7 +545,6 @@ https://github.com/kazvee/meme-maker/assets/109990289/d75548b9-bbbb-43a3-8c7d-56
   <h3>Recipe Rank 🍛</h3>
  
   <div align="left">
-    ✨ <a href="https://kazvee.github.io/recipe-rank/" target="_blank" rel="noopener">Live Demo</a><br>
     🍲 A recipe sharing site that allows visitors to vote on the links submitted<br>
     ⚙️ <strong>Tools Used:</strong> React, JavaScript, HTML, CSS, Supabase, GitHub Pages, Netlify<br>
     📅 Built in: April 2023<br><br>
