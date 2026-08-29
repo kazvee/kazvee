@@ -146,7 +146,6 @@ When I'm not at the keyboard, I like to travel, explore international cuisine, a
   <h3>🌱 Touch Grass</h3>
   
   <div align="left">
-    ✨ <a href="https://touchgrass.kazvee.com/" target="_blank" rel="noopener">Live Demo</a><br>
     📍 Mobile-first interactive visited places tracker<br>
     🔎 Search for interesting places to explore<br>
     ⚙️ <strong>Tools Used:</strong> PHP, jQuery, JavaScript, CSS<br>
@@ -186,7 +185,7 @@ When I'm not at the keyboard, I like to travel, explore international cuisine, a
   <h3>🍔 LocalBytes</h3>
   
   <div align="left">
-    ✨ <a href="https://localbytes.kazvee.com/" target="_blank" rel="noopener">Live Demo</a><br>
+    ✨ <a href="https://kazvee.github.io/localbytes/" target="_blank" rel="noopener">Live Demo</a><br>
     🍛 Lightweight, responsive restaurant explorer<br>
     🔎 Search meals by dish or cuisine and view recommended dishes<br>
     ⚙️ <strong>Tools Used:</strong> JavaScript, React, Vite, Fuse.js, CSS, HTML<br>
@@ -243,7 +242,6 @@ https://github.com/user-attachments/assets/1b570ae4-632b-4dd7-80a1-2072206760e3
   <h3>🪶 ezReply </h3>
   
   <div align="left">
-    ✨ <a href="https://ezreply.kazvee.com/" target="_blank" rel="noopener">Live Demo</a><br>
     👩‍💻 Streamlines customer support with dynamic, pre-written answers to common queries<br>
     ✅ Features a built-in copy button for quick responses<br>
     ⚙️ <strong>Tools Used:</strong> Python, Flask, HTML, CSS, Virtual Environment<br>
@@ -297,7 +295,6 @@ https://github.com/user-attachments/assets/4cf55ba9-01a1-40b1-9125-d6524f7a10e4
   <h3>🐍 Snake Bytes Dinner Planner</h3>
   
   <div align="left">
-    ✨ <a href="https://snakebytes.kazvee.com/" target="_blank" rel="noopener">Live Demo</a><br>
     🍛 A revamped Python dinner planner built as a frontend app with Flask<br>
     ✅ Includes user input validation and eye-catching graphics promoting healthy eating<br>
     ⚙️ <strong>Tools Used:</strong> Python, Flask, Virtual Environment<br>
@@ -334,7 +331,7 @@ https://github.com/user-attachments/assets/653ff4d4-6e3f-4624-86b4-2a0e19b7622d
   <h3>Bestie Squad 🐰</h3>
   
   <div align="left">
-    ✨ <a href="kazvee.github.io/bestie-squad/" target="_blank" rel="noopener">Live Demo</a><br>
+    ✨ <a href="https://kazvee.github.io/bestie-squad/" target="_blank" rel="noopener">Live Demo</a><br>
     😻 Redux application that enables users to create and manage their list of friends<br>
     🗝️ Features key Redux concepts such as Reducers, Actions, and the Store structure
     ⚙️ <strong>Tools Used:</strong> Redux (Reducers, Actions, Store), JavaScript, React, HTML, CSS, Yarn, GitHub Pagesbr>
@@ -562,7 +559,7 @@ https://github.com/kazvee/meme-maker/assets/109990289/d75548b9-bbbb-43a3-8c7d-56
   <h3>Monkey Duck Game 🐒🦆</h3>
  
   <div align="left">
-    🤩 <a href="https://monkey-duck.surge.sh/" target="_blank" rel="noopener">Live Demo</a><br>
+    🤩 <a href="https://kazvee.github.io/monkey-duck-game/" target="_blank" rel="noopener">Live Demo</a><br>
     🍌 Cute browser game<br>
     🐒 Ask the monkeys to shuffle colourful emojis<br>
     🦆 Get some ducks in a row, and WIN!<br>
@@ -640,24 +637,6 @@ https://github.com/kazvee/meme-maker/assets/109990289/d75548b9-bbbb-43a3-8c7d-56
   [![Main View](https://github.com/kazvee/tourney-matches/raw/main/public/readme_images/Main_View.png)](https://github.com/kazvee/tourney-matches/#readme)
 
   [![Match List View](https://github.com/kazvee/tourney-matches/raw/main/public/readme_images/Match_List_View.png)](https://github.com/kazvee/tourney-matches/#readme)
-  
-  <hr>
-  <!-- World Times -->
-  <h3>World Times 🕰️</h3>
-
-  <div align="left">
-    <!-- ⏰ <a href="https://world-times.surge.sh/" target="_blank">Live Demo</a><br>  -->
-    ⌚ Custom-built World Clock for one customer, displaying local time for their requested cities<br>
-    ⚙️ <strong>Tools Used:</strong> JavaScript, Vite, Pico CSS, Luxon library<br>
-    📅 Built in: March 2023<br><br>
-    <p>
-      <a href="https://github.com/kazvee/world-times/#readme" target="_blank" rel="noopener">
-        <img src="https://img.shields.io/badge/Project Repo-CCCCCC?style=for-the-badge&logo=github&logoColor=808080">
-      </a>
-    </p>
-  </div>
-  
-  [![World_Clock_Screenshot](https://github.com/kazvee/kazvee/assets/109990289/7ace290e-8299-484c-8c9e-84350eb97b2a)](https://github.com/kazvee/world-times/#readme)
   
   <hr>
   <!-- Currency Xchange -->
